@@ -1,1 +1,6 @@
-alert("Tutorial: Tap to Get Tapping to Crazy.")
+alert("huh")
+alert("huh")
+alert("huh")
+alert("huh")
+alert("huh")
+alert("huh")
