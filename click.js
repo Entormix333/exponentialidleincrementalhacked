@@ -1,5 +1,5 @@
 let counter = 0;
-let h = 1;
+let h = 1e70;
 let b = 0;
 let prestigeclub = 0;
 let prestigeclubcost = 1e6;
